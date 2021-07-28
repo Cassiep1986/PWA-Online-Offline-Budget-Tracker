@@ -15,6 +15,7 @@ const FILES_TO_CACHE = [
     "/assets/images/icons/icon-192x192.png",
     "/assets/images/icons/icon-384x384.png",
     "/assets/images/icons/icon-512x512.png",
+    "https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
   ];
   
   const CACHE_NAME = "static-cache-v2";
