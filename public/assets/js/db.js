@@ -3,7 +3,7 @@ let budgetVersion;
 
 // Create a new db request for a "budget" database.
 // checks if there is a new version
-const request = indexedDB.open("BudgetDB", budgetVersion || 21);
+const request = indexedDB.open("budget", budgetVersion || 21);
 // create new or change version
 request.onupgradeneeded = function (e) {
   console.log("Upgrade needed in IndexDB");
