@@ -7,7 +7,7 @@ const FILES_TO_CACHE = [
     "/assets/js/index.js",
     "/assets/js/loadImages.js",
     "/assets/images/icons/icon-152x152.png",
-    "/assets/images/icons/icon-192x192.png",
+    // "/assets/images/icons/icon-192x192.png",
     "https://cdn.jsdelivr.net/npm/chart.js@2.8.0",
   ];
   
