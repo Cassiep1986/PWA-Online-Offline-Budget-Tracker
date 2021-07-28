@@ -79,4 +79,3 @@ const FILES_TO_CACHE = [
       })
     );
   });
-  © 2021 GitHub, Inc.
