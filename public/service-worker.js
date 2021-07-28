@@ -1,11 +1,10 @@
-
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
     "/manifest.webmanifest",
-    "/style.css",
+    "/assets/css/style.css",
     "/assets/js/db.js",
-    "/index.js",
+    "/assets/js/index.js",
     "/assets/js/loadImages.js",
     "/assets/images/icons/icon-152x152.png",
     "/assets/images/icons/icon-192x192.png",
@@ -80,3 +79,4 @@ const FILES_TO_CACHE = [
       })
     );
   });
+  © 2021 GitHub, Inc.
