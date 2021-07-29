@@ -6,19 +6,12 @@ This application allow the user to create a budget on and offline.
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
-- [Usage](#Usage)
 - [license](#license) 
 - [Contributing](#Contributing)
 - [Questions](#Questions)
 
 ## Installation
 This application is deployed at the following link : [https://pwabudgettracker01.herokuapp.com/](https://pwabudgettracker01.herokuapp.com/)
-
-## Usage
-
-The following animation shows the application's inital steps for starting the application:
-
-![README demo](./READMEDemoVideo.gif)
 
 
 ## License
