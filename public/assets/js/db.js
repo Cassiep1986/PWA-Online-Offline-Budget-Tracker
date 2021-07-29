@@ -54,7 +54,7 @@ function checkDatabase() {
       .then((response) => response.json())
       // response
       .then((res) => {
-        console.log(response);
+        // console.log(response);
        
           // If our returned response is not empty
           if (res.length !== 0) {
